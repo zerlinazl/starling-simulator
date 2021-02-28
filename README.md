@@ -1,5 +1,6 @@
 Simulates flocking behavior in starlings. Built off of Ben Eater's simulator: https://github.com/beneater/boids read for more info.
 
+See FINAL_IMG.jpg for a screenshot from the simulator.
 
 Differences from Ben Eater's original simulation:
 
